@@ -27,7 +27,7 @@ const changeBackground= () => {
            <span className='nav-icon'></span>
            </label>
            <ul className='menu'>
-           <li><a href='#'className='active'>Home</a></li>
+           <li><a href='#home'className='active'>Home</a></li>
            <li><a href='#features'className='active'>Events</a></li>
            <li><a href='#about'className='active'>Registration</a></li>
            <li><a href='#achv'className='active'>Achievements</a></li>

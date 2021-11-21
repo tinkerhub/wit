@@ -6,7 +6,7 @@ function Contact(props) {
     <h3> Query? Just ping us! </h3>
     <div className='contact-input'>
     <input type='email' placeholder='example@gmail.com'/>
-    <a href='#'>Contact</a>
+    <a href='#contact'>Contact</a>
     </div>
    </div>
   );
